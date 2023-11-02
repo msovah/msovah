@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msovah
+- 👋 Hi, I’m @msobol
 - 👀 I’m interested in Python, Lisp, web development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
